@@ -1,11 +1,11 @@
-package med.voll.api.domain.coupon;
+package event.tec.api.domain.coupon;
 
+import event.tec.api.domain.event.Event;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import med.voll.api.domain.event.Event;
 
 import java.util.Date;
 import java.util.UUID;
