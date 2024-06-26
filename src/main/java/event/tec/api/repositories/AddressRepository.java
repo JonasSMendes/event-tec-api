@@ -1,6 +1,6 @@
-package med.voll.api.repositories;
+package event.tec.api.repositories;
 
-import med.voll.api.domain.address.Address;
+import event.tec.api.domain.address.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
