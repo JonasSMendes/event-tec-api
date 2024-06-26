@@ -1,12 +1,12 @@
-package med.voll.api.domain.address;
+package event.tec.api.domain.address;
 
 
+import event.tec.api.domain.event.Event;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import med.voll.api.domain.event.Event;
 
 import java.util.UUID;
 

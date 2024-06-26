@@ -1,4 +1,4 @@
-package med.voll.api.domain.event;
+package event.tec.api.domain.event;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
